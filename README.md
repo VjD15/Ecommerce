@@ -6,7 +6,7 @@ A modern, full-stack e-commerce web application with dynamic pricing, advanced s
 
 ##  Live Demo
 
-🔗 [View the Live App]([https://vercel.com/vijaydharsans-projects/ecommerce/EpZ34wicZMCSiS2fXbqrn7ZMza62](https://ecommerce-pi-virid-33.vercel.app/))
+🔗 [View the Live App](https://ecommerce-pi-virid-33.vercel.app/)
 
 ---
 
