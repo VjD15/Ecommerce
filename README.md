@@ -10,6 +10,19 @@ A modern, full-stack e-commerce web application with dynamic pricing, advanced s
 
 ---
 
+## 👤 Login Credentials
+
+Use the following test users to log in:
+
+| Role    | Email             | Password       |
+|---------|-------------------|----------------|
+| Admin   | admin@gmail.com   | adminpassword  |
+| Regular | user@example.com  | userpassword   |
+
+---
+
+---
+
 ## 📋 Features
 
 ### ✅ Core Functionalities
@@ -36,18 +49,7 @@ A modern, full-stack e-commerce web application with dynamic pricing, advanced s
     - Price range
     - Availability
 
----
 
-## 👤 Login Credentials
-
-Use the following test users to log in:
-
-| Role    | Email             | Password       |
-|---------|-------------------|----------------|
-| Admin   | admin@gmail.com   | adminpassword  |
-| Regular | user@example.com  | userpassword   |
-
----
 
 ## 🏗️ Tech Stack
 
