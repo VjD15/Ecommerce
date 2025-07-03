@@ -52,7 +52,6 @@ Use the following test users to log in:
 ## 🏗️ Tech Stack
 
 - **Frontend**: Next.js (App Router) + TypeScript + Tailwind CSS
-- **Backend**: API Routes / Server Actions
 - **Auth**: Custom authentication (mock user DB)
 - **State Management**: React Hooks, Context
 - **Styling**: Tailwind CSS
@@ -64,9 +63,4 @@ Use the following test users to log in:
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
 
